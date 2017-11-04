@@ -6,6 +6,10 @@ It is a self-contained product cum platform that
 offers several options and functionalities to patrons and artists for
 displaying art, reviewing it and bidding for it.
 
+### **_Technologies used:-_**
+Database -> MySQL
+Frontend -> HTML, CSS, Bootstrap, Javascript, JQuery
+Backend  -> Laravel 5.5
 ### **_Features:-_**
 
 * Showcase paintings for gallery
